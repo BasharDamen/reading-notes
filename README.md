@@ -22,9 +22,9 @@ at the oppesite of fixed mindset theory which beleives that intelligence and tal
 
 * Carol Dweck
 >_You’re in charge of your mind. You can help it grow by using it in the right way._
-  
-  
-  
+  #
+  #
+  #
 Hello everyone,
 my name is Bashar Al-Damen, I graduated last year with a bachelor degree in accounting.
 I've been always passionate about programming, so I'm looking forward to learn more and more about it.
