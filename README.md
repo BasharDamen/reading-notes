@@ -1,5 +1,6 @@
 # reading-notes
-#
+ 
+ 
 Hello everyone,
 my name is Bashar Al-Damen, I graduated last year with a bachelor degree in accounting.
 I've been always passionate about programming, so I'm looking forward to learn more and more about it.
