@@ -11,7 +11,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
 
 ## Table of Contents: ##
 
-|                   | Topic
+|        #          | Topic
 |      :----:       |                   
 | No. 1             | [Growth Mindset](https://bashardamen.github.io/reading-notes/lab01) 
 | NO. 2             | [Markdown](https://bashardamen.github.io/reading-notes/read02)       
