@@ -11,10 +11,11 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
 
 ## Table of Contents: ##
 
-|        #          | Topic
-|      :----:       |                   
-| No. 1             | [Growth Mindset](https://bashardamen.github.io/reading-notes/lab01) 
-| No. 2             | [Markdown](https://bashardamen.github.io/reading-notes/read02)
-| No. 3             | [Git](https://bashardamen.github.io/reading-notes/read002)
-| No. 4             | [structure web pages with HTML](https://bashardamen.github.io/reading-notes/read03)
-| No. 5             | [Dynamic web pages with JavaScript](https://bashardamen.github.io/reading-notes/read04)
+|   #    | Topic
+| :----: |                   
+| No. 1  | [Growth Mindset](https://bashardamen.github.io/reading-notes/lab01) 
+| No. 2  | [Markdown](https://bashardamen.github.io/reading-notes/read02)
+| No. 3  | [Git](https://bashardamen.github.io/reading-notes/read002)
+| No. 4  | [structure web pages with HTML](https://bashardamen.github.io/reading-notes/read03)
+| No. 5  | [Dynamic web pages with JavaScript](https://bashardamen.github.io/reading-notes/read04)
+| No. 6  | [Operators and Loops](https://bashardamen.github.io/reading-notes/read05)
