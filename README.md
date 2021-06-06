@@ -20,3 +20,4 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
 | No. 5  | [Dynamic web pages with JavaScript](https://bashardamen.github.io/reading-notes/read04)
 | No. 6  | [Operators and Loops](https://bashardamen.github.io/reading-notes/read05)
 | No. 7  | [Design web pages with CSS](https://bashardamen.github.io/reading-notes/read06)
+| No. 8  | [Programming with JavaScript](https://bashardamen.github.io/reading-notes/read07)
