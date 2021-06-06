@@ -19,3 +19,4 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
 | No. 4  | [structure web pages with HTML](https://bashardamen.github.io/reading-notes/read03)
 | No. 5  | [Dynamic web pages with JavaScript](https://bashardamen.github.io/reading-notes/read04)
 | No. 6  | [Operators and Loops](https://bashardamen.github.io/reading-notes/read05)
+| No. 7  | [Design web pages with CSS](https://bashardamen.github.io/reading-notes/read06)
