@@ -1,4 +1,4 @@
-# Introductory HTML and JavaScript
+# Introductory HTML and JavaScript  
 
 Before we talk about HTML and JS, let us briefly demonstrate how the web get accessed by the users by talking about **BROWSERS** and **WEB SERVERS** .
 
@@ -11,7 +11,7 @@ Before we talk about HTML and JS, let us briefly demonstrate how the web get acc
 
 Let's get started!  
 
-## HTML ##
+## HTML ##  
   HTML (HyperText Markup Language) is used for strucuring or desicribing the structure of a web page.
   Structuring web page is like giving a special order to the page's content such as dividing the page for **Headlines**, **Paragraphs**, **qoates**, and so on. This is similar to newspaper structure but as an electronic versions.
   ![HTML](https://acumbamail.com/blog/wp-content/uploads/2014/10/maquetacion-email-html.png)
@@ -54,7 +54,7 @@ Let's get started!
 #
 
 
-## EXTRA MARKUP ##    
+## EXTRA MARKUP ##      
 
   ![xhtml](https://desarrolloweb.com/storage/tag_images/actual/WBvrrEHVhzy4RGhxM8XsNIpf1ItxUGg4X30lUeN5.png)
   HTML has been improved to a better versions with the passage of time. In 1997, **HTML 4** was released and had some presentational elements to control the appearace of pages. Anyway, they are not recommended to be used anymore. By 1998, a language called **XML** was published, which aims to allow people to write new markup languages.
@@ -75,7 +75,7 @@ Let's get started!
   In 2000, **HTML 5** also was released, in which authors do not need to close all tags, and new elements and attributes will be introduced.  
 # 
 
-## HTML 5 Layout ##
+## HTML 5 Layout ##  
 
   Befor **HTML5**, authors were using `<div>` elements to group togethor related elements on the page. In the strucuring of the web page, authors used class or id attributes to refer to the role of the `<div>`.
 
@@ -86,9 +86,10 @@ Let's get started!
   ![html5](https://stuyhsdesign.files.wordpress.com/2016/05/yoko-html5.png)
 #
 
-## PROCESS & DESIGN ##
+## PROCESS & DESIGN ##  
 
-  ### WHO IS THE SITE FOR ###
+### WHO IS THE SITE FOR ###    
+ 
   When web site being designed, It is very important to take in conseder the **target audience**.
   This can be achived by asking some questions about the people you would excpect to be interested in the subject of your site.
   Targeted audience and the relevent questions:  
@@ -108,7 +109,8 @@ Let's get started!
   * will visitors be using the site for themselves or for someone else?
   * how large is the budget they control?
 
-  ### WHY PEOPLE VISIT YOUR WEBSITE ###
+### WHY PEOPLE VISIT YOUR WEBSITE ###  
+  
 
   After you gain knowledge about who your visitors are, you should consider why they are coming, that si most people will visit yor website for a specific reason. So, your content ad design should be attractive and being influenced by the goals of your users.
 
