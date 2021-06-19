@@ -22,3 +22,4 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [_Programming with JavaScript_](https://bashardamen.github.io/reading-notes/read07)
 
 * **Code 201 Reading Notes**
+  - [_Introductory HTML and JavaScript_](https://bashardamen.github.io/reading-notes/class-01)
