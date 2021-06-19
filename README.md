@@ -23,3 +23,17 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
 
 * **Code 201 Reading Notes**
   - [_Introductory HTML and JavaScript_](https://bashardamen.github.io/reading-notes/class-01)
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
