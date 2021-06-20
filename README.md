@@ -12,18 +12,21 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
 ## Table of Contents ##
 
 * **Code 102 Reading Notes**
-  - [_Growth Mindset_](https://bashardamen.github.io/reading-notes/lab01)
-  - [_Markdown_](https://bashardamen.github.io/reading-notes/read02)
-  - [_Git_](https://bashardamen.github.io/reading-notes/read002)
-  - [_structure web pages with HTML_](https://bashardamen.github.io/reading-notes/read03)
-  - [_Dynamic web pages with JavaScript_](https://bashardamen.github.io/reading-notes/read04)
-  - [_Operators and Loops_](https://bashardamen.github.io/reading-notes/read05)
-  - [_Design web pages with CSS_](https://bashardamen.github.io/reading-notes/read06)
-  - [_Programming with JavaScript_](https://bashardamen.github.io/reading-notes/read07)
+  - [*Growth Mindset*](https://bashardamen.github.io/reading-notes/lab01)
+  - [*Markdown*](https://bashardamen.github.io/reading-notes/read02)
+  - [*Git*](https://bashardamen.github.io/reading-notes/read002)
+  - [*structure web pages with HTML*](https://bashardamen.github.io/reading-notes/read03)
+  - [*Dynamic web pages with JavaScript*](https://bashardamen.github.io/reading-notes/read04)
+  - [*Operators and Loops*](https://bashardamen.github.io/reading-notes/read05)
+  - [*Design web pages with CSS*](https://bashardamen.github.io/reading-notes/read06)
+  - [*Programming with JavaScript*](https://bashardamen.github.io/reading-notes/read07)  
+
+  <hr />  
+  
 
 * **Code 201 Reading Notes**
-  - [_Introductory HTML and JavaScript_](https://bashardamen.github.io/reading-notes/class-01)
-  -
+  - [*Introductory HTML and JavaScript*](https://bashardamen.github.io/reading-notes/class-01)
+  - [*Basics of HTML, CSS & JS*](https://bashardamen.github.io/reading-notes/class-02)
   -
   -
   -
