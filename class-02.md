@@ -1,12 +1,12 @@
 # Basics of HTML, CSS & JS  
 
-## TEXT ##
+## HTML TEXT ##
 While working on a web page using HTML language, tags (known as markup) are added to the content of the page in which these tags provide extra meaning and give the ability to browsers to show users the appropriate structure for the page.  
 The two markup types we will explain them are:  
     1- Structural markup.  
     2- Semmantic markup.
 
-### **1- Structural Markup** ###  
+### **Structural Markup** ###  
 The elements that can be used to describe both *headings* and *paragraphs*.
 
 - **HEADINGS:**
@@ -88,5 +88,72 @@ Texts can be styled in HTML using:
     <p> Theme 2 </p>
 
 <br />
+<hr />
 
-- ** 
+## CSS intro ##
+
+### WHAT IS CSS** ###  
+CSS stands for *cascading style sheets*. In short, CSS is a design language that makes a website look more appealing than just plain or uninspiring pieces of text. Whereas HTML largely determines textual content, CSS determines visual structure, layout, and aesthetics. HTML is a markup language, and CSS is a style sheet language.  
+
+### How Does CSS Work with HTML? ###  
+
+CSS makes the front-end of a website shine and it creates a great user experience. Without CSS, websites would be less pleasing to the eye and likely much harder to navigate. In addition to layout and format, CSS is responsible for font color and more.  
+
+![css and html](https://miro.medium.com/max/2688/1*Q8w9PI58DKjolhl5aDeiOQ.png)  
+
+
+
+<hr />
+
+## BASIC JS INSTRUCTIONS ##  
+
+### Statement ##  
+Statements are used in JavaScript to control its program flow. The following are statements that are included in JS:  
+* comment  
+  
+    The `//` characters tell JavaScript that you want to include explanatory comments in your program.  
+    ```
+    // single-line comment
+    
+    /* 
+    multible-lines 
+    comment
+    */
+    ```
+* break  
+
+    The break statement tells JavaScript to exit a "controlled structure" and resume execution at a point after the structure.  
+    The break statement is used with structures built using the following commands:  
+        - while  
+        - for  
+        - for..in  
+
+* function  
+    The function statement lets you create your own user-defined functions. Functions are self-contained routines that can be "called" elsewhere within your JavaScript code.  
+
+* if...else  
+    Functions are self-contained routines that can be "called" elsewhere within your JavaScript code.  
+
+### DECISIONS & LOOPS in JS ###  
+
+There are situations when we want to run the code at different conditions, such as, if one condition applies run a particular code, if another condition applies another code is run. This is prioritized with "if" and "else if" conditionals as follows:
+```
+function getColor(phrase){
+   if (phrase === "stop"){
+       console.log("red");
+   } else if (phrase === "slow"){
+       console.log("yellow");
+   } else if (phrase === "go"){
+       console.log("green");
+   } else {
+       console.log("purple");
+   }
+}
+```  
+
+We can run codes in multiple loops if we want to with the help of loops. With loops, our code runs until a certain condition is satisfied such as:  
+```
+for (let i = 25; i >= 0; i-=5) {
+    console.log(i)
+}
+```
