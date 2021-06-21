@@ -27,7 +27,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
 * **Code 201 Reading Notes**
   - [*Introductory HTML and JavaScript*](https://bashardamen.github.io/reading-notes/class-01)
   - [*Basics of HTML, CSS & JS*](https://bashardamen.github.io/reading-notes/class-02)
-  -
+  - [*HTML Lists, Control Flow with JS, and the CSS Box Model*](https://bashardamen.github.io/reading-notes/class-03)
   -
   -
   -

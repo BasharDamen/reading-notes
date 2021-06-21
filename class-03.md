@@ -149,4 +149,13 @@ An array is a special type of variable. It doesn't just store one value; it stor
 
 Array is helpful and should be taken in consider whenever working with a **list** or a set of values that are **related** to each other.
 
-Arrays are helpful when you don't know how many items a list will contain becausem when you creat the array, you do not need to specify how many values it will hold.  
+Arrays are helpful when you don't know how many items a list will contain becausem when you creat the array, you do not need to specify how many values it will hold.    
+
+
+
+
+
+**RESOURCES :**  
+1. HTML & CSS: Design and Build Websites by Jon Duckett.
+2. JavaScript & jQuery: Interactive Front-End Web Development by Jon Duckett.
+
