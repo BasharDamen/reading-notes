@@ -30,7 +30,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*HTML Lists, Control Flow with JS, and the CSS Box Model*](https://bashardamen.github.io/reading-notes/class-03)
   - [*HTML Links, CSS Layout, JS Functions*](https://bashardamen.github.io/reading-notes/class-04)
   - [*HTML Images; CSS Color & Text*](https://bashardamen.github.io/reading-notes/class-05)
-  -
+  - [*JS Object Literals; The DOM*](https://bashardamen.github.io/reading-notes/class-06)
   -
   -
   -
