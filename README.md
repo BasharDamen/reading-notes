@@ -31,7 +31,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*HTML Links, CSS Layout, JS Functions*](https://bashardamen.github.io/reading-notes/class-04)
   - [*HTML Images; CSS Color & Text*](https://bashardamen.github.io/reading-notes/class-05)
   - [*JS Object Literals; The DOM*](https://bashardamen.github.io/reading-notes/class-06)
-  -
+  - [*HTML Tables; JS Constructor Functions*](https://bashardamen.github.io/reading-notes/class-07)
   -
   -
   -
