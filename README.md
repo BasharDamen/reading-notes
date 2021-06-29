@@ -32,7 +32,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*HTML Images; CSS Color & Text*](https://bashardamen.github.io/reading-notes/class-05)
   - [*JS Object Literals; The DOM*](https://bashardamen.github.io/reading-notes/class-06)
   - [*HTML Tables; JS Constructor Functions*](https://bashardamen.github.io/reading-notes/class-07)
-  -
+  - [*More CSS Layout*](https://bashardamen.github.io/reading-notes/class-08)
   -
   -
   -
