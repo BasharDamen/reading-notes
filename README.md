@@ -34,7 +34,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*HTML Tables; JS Constructor Functions*](https://bashardamen.github.io/reading-notes/class-07)
   - [*More CSS Layout*](https://bashardamen.github.io/reading-notes/class-08)
   - [*Forms and Events*](https://bashardamen.github.io/reading-notes/class-09)
-  -
+  - [*Error Handling & Debugging*](https://bashardamen.github.io/reading-notes/class-10)
   -
   -
   -
