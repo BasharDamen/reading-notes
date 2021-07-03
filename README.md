@@ -35,7 +35,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*More CSS Layout*](https://bashardamen.github.io/reading-notes/class-08)
   - [*Forms and Events*](https://bashardamen.github.io/reading-notes/class-09)
   - [*Error Handling & Debugging*](https://bashardamen.github.io/reading-notes/class-10)
-  -
+  - [*Readings : Audio, Video, Images*](https://bashardamen.github.io/reading-notes/class-11)
   -
   -
   -
