@@ -490,3 +490,4 @@ var elements = document.getElementsByClassName('hot')
 if (elements.length>= 1) {
 var firstltem = elements.item(O);
 }
+```
