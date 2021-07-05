@@ -38,5 +38,5 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*Readings : Audio, Video, Images*](https://bashardamen.github.io/reading-notes/class-11)
   - [*Chart.js, Canvas*](https://bashardamen.github.io/reading-notes/class-12)
   - [*Local SStorage For WEB Applications*](https://bashardamen.github.io/reading-notes/class-13)
-  -
+  - [*CSS Transforms, Transitions, and Animations*](https://bashardamen.github.io/reading-notes/class-14a)
   -
