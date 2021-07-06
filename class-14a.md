@@ -4,7 +4,13 @@
 
 ## **Introducing CSS Transformations**
 
-The effect of a CSS Transform is to modify the appearance of an element in the browser by translation, rotation or other means. When defined in a style sheet, transformations are applied as the page is rendered, so you don't actually see any animations taking place. Transforms can also be applied as a mouseover or similar effect.  
+
+**Transform property** in CSS is used to modify the appearance of an element in the browser through *transilation*, *rotation* , *other means*.   
+Using transformation, you can size, position, and change elements.  
+transform property has two options, 2D and 3D.
+
+
+ When defined in a style sheet, transformations are applied as the page is rendered, so you don't actually see any animations taking place. Transforms can also be applied as a mouseover or similar effect.  
 
 For example:   
 
@@ -55,76 +61,90 @@ For example:
 
 * Of note is the fact that the text is still selectable in transformed elements, even when rotated, and that scaling an element affects properties including border widths and font sizes and not just the box dimensions.  
 
-## **Animating your Transforms**  
 
-While CSS Transformation in itself is a powerful tool for developers (though I shudder to think what will happen as it becomes more widely used), the ability to animate the same effects using -webkit-transition is far more exciting. Move your mouse over the following boxe for a demonstration:  
+## Transform Syntax  
 
-> 
-> <style type="text/css">
-> 
->   .showbox {
->     float: left;
->     margin: 4em 1em;
->     width: 100px;
->     height: 60px;
->     border: 2px solid green;
->     background-color: #fff;
->     line-height: 60px;
->     text-align: center;
->     -webkit-transition: 1s ease-in-out;
->     -moz-transition: 1s ease-in-out;
->     -o-transition: 1s ease-in-out;
->     transition: 1s ease-in-out;
->   }
->   .showbox.slideright:hover {
->     -webkit-transform: translate(3em,0);
->     -moz-transform: translate(3em,0);
->     -o-transform: translate(3em,0);
->     -ms-transform: translate(3em,0);
->     transform: translate(3em,0);
->   }
-> 
-> </style>
-> 
-> <div class="showbox slideright">box 1</div>
-> 
+
+The syntax of transform including the transform property followed by the value. The value specifies the transform type followed by a specific amount inside parantheses.  
 > ```
-> <style type="text/css">
-> 
->   .showbox {
->     float: left;
->     margin: 4em 1em;
->     width: 100px;
->     height: 60px;
->     border: 2px solid green;
->     background-color: #fff;
->     line-height: 60px;
->     text-align: center;
->     -webkit-transition: 1s ease-in-out;
->     -moz-transition: 1s ease-in-out;
->     -o-transition: 1s ease-in-out;
->     transition: 1s ease-in-out;
->   }
->   .showbox.slideright:hover {
->     -webkit-transform: translate(3em,0);
->     -moz-transform: translate(3em,0);
->     -o-transform: translate(3em,0);
->     -ms-transform: translate(3em,0);
->     transform: translate(3em,0);
->   }
-> 
-> </style>
-> 
-> <div class="showbox slideright">box 1</div>    
+> div {
+>   -webkit-transform: scale(1.5);
+>      -moz-transform: scale(1.5);
+>        -o-transform: scale(1.5);
+>           transform: scale(1.5);
+> }
+> ```  
+
+
+
+## Scale  
+
+The scale value allows you to control the size of an element.  
+For example, the value 2 would transform the size to be 2 times its original size. The value 0.5 wpuld transform the size to be half its original size.
+
+scale value conrtols the width(X-axis) and the height(Y-axis).
+![scale](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale()/scale.png)
+
+
+**Scale Syntax**  
+
+> ```
+> div:hover {
+>   transform: scale(2);
+> }
+> ```
+
+## Rotate  
+
+Using rotate value, you can rotate the element either clockwise or counterclockwise by specifying a number of degree.   
+Positive values will rotate the element clockwise.  
+Negative values will rotate the element counterclockwise.  
+
+**Rotate Syntax**  
+> ```
+> div:hover {
+>   transform: rotate(1080deg);
+> }
+> ```  
+
+--- 
+
+# CSS Translate 
+
+The translate value moves an element left/right and up/down.   
+
+this movement is depending on the parameters givin for the X(horizintal), Y(vertical) axis.
+
+* A positive X value moves the element to the right.
+*  a negative X moves the element to the left
+* A positive Y value moves the element downwards
+* a negative Y value, upwards.  
+
+![translate](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2014/12/translate-example.png)  
+
+**translate suntax**  
+> ```
+> div:hover {
+>   transform: translate(20px, 20px);
+> }
+> ```
+
+---
+
+# Skew  
+
+With the skew value, the element skews (or tilts) one direction or the other based on the values given for the X and Y axes.
+
+![skew](https://www.sanjaywebdesigner.com/articles/wp-content/uploads/2019/07/transform-skew-html-css-in-delhi-india.jpg)  
+
+**skew syntax**  
+>```
+>div {
+>  transform: skewX(25deg);
+>  transform: skewY(10deg);
+>  transform: skew(25deg, 10deg);
+>}
 >```
 
 
-What you see above is a box from the four boxes from the previous section, in their default states. When you mouseover any of the boxes, however, the CSS transformation is applied as a one second animation. When the mouse moves away the animation is reversed, taking each box back to its original state.
-
-And we can do this without using JavaScript - only HTML and CSS!   
-
-If you think that's cool, realise that CSS Animation can be applied not just to the transforms, but also to other CSS properties including: opacity, colour and a bunch of others.  
-
-
-
-
+![trans](https://www.htmldog.com/figures/transform.png)
