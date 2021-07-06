@@ -39,4 +39,4 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*Chart.js, Canvas*](https://bashardamen.github.io/reading-notes/class-12)
   - [*Local SStorage For WEB Applications*](https://bashardamen.github.io/reading-notes/class-13)
   - [*CSS Transforms, Transitions, and Animations*](https://bashardamen.github.io/reading-notes/class-14a)
-  -
+  - [*Building the perfect team*](https://bashardamen.github.io/reading-notes/class-14b)
