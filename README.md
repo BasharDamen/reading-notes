@@ -21,7 +21,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*Design web pages with CSS*](https://bashardamen.github.io/reading-notes/read06)
   - [*Programming with JavaScript*](https://bashardamen.github.io/reading-notes/read07)  
 
-  <hr />  
+ --- 
   
 
 * **Code 201 Reading Notes**
@@ -40,3 +40,11 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*Local SStorage For WEB Applications*](https://bashardamen.github.io/reading-notes/class-13)
   - [*CSS Transforms, Transitions, and Animations*](https://bashardamen.github.io/reading-notes/class-14a)
   - [*Building the perfect team*](https://bashardamen.github.io/reading-notes/class-14b)
+
+---
+
+* **Code 301 Reading Notes**
+
+---
+
+* **Code 401 Reading Notes**
