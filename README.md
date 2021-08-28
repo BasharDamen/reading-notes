@@ -45,6 +45,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
 
 * **Code 301 Reading Notes**
 
+  - [*Introduction to React and Components*](https://bashardamen.github.io/reading-notes/read301-1)
 ---
 
 * **Code 401 Reading Notes**
