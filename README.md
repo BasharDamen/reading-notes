@@ -48,6 +48,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*Introduction to React and Components*](https://bashardamen.github.io/reading-notes/read301-1)
   - [*State and Props*](https://bashardamen.github.io/reading-notes/read301-2)
   - [*Passing Functions as Props*](https://bashardamen.github.io/reading-notes/read301-3)
+  - [*React and Forms*](https://bashardamen.github.io/reading-notes/read301-4)
 ---
 
 * **Code 401 Reading Notes**
