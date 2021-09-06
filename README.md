@@ -51,6 +51,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*React and Forms*](https://bashardamen.github.io/reading-notes/read301-4)
   - [*Thinking in React*](https://bashardamen.github.io/reading-notes/read301-5)
   - [*NODE.JS*](https://bashardamen.github.io/reading-notes/read301-6)
+  - [*REST*](https://bashardamen.github.io/reading-notes/read301-7)
 ---
 
 * **Code 401 Reading Notes**
