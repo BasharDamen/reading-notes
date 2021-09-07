@@ -52,6 +52,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*Thinking in React*](https://bashardamen.github.io/reading-notes/read301-5)
   - [*NODE.JS*](https://bashardamen.github.io/reading-notes/read301-6)
   - [*REST*](https://bashardamen.github.io/reading-notes/read301-7)
+  - [*APIs*](https://bashardamen.github.io/reading-notes/read301-8)
 ---
 
 * **Code 401 Reading Notes**
