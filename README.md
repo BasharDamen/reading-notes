@@ -54,6 +54,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*REST*](https://bashardamen.github.io/reading-notes/read301-7)
   - [*APIs*](https://bashardamen.github.io/reading-notes/read301-8)
   - [*FUNCTIONAL PROGRAMMING*](https://bashardamen.github.io/reading-notes/read301-9)
+  - [*In memory storage*](https://bashardamen.github.io/reading-notes/read301-10)
 ---
 
 * **Code 401 Reading Notes**
