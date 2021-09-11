@@ -56,6 +56,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*FUNCTIONAL PROGRAMMING*](https://bashardamen.github.io/reading-notes/read301-9)
   - [*In memory storage*](https://bashardamen.github.io/reading-notes/read301-10)
   - [*Mongo and Mongoose*](https://bashardamen.github.io/reading-notes/read301-11)
+  - [*CRUD*](https://bashardamen.github.io/reading-notes/read301-12)
 ---
 
 * **Code 401 Reading Notes**
