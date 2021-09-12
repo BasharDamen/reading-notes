@@ -57,6 +57,7 @@ Here is my **[GitHub](https://github.com/BasharDamen)**, you are welcomed anytim
   - [*In memory storage*](https://bashardamen.github.io/reading-notes/read301-10)
   - [*Mongo and Mongoose*](https://bashardamen.github.io/reading-notes/read301-11)
   - [*CRUD*](https://bashardamen.github.io/reading-notes/read301-12)
+  - [*Authentication*](https://bashardamen.github.io/reading-notes/read301-14)
 ---
 
 * **Code 401 Reading Notes**
